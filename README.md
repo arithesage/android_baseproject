@@ -1,8 +1,8 @@
-# [WIP] Adroid base project
+# [WIP] Android base project
 A minimal base for starting an Android app without needing Android Studio.
 
 Why not just use Android Studio?
-Well... because i don't like being tied to use a development environment if
+Well... because i don't like being tied to a development environment if
 i can avoid it.
 
 You can import the project, once initialized, in Android Studio if you wish.
@@ -23,10 +23,10 @@ Example:
 Now, the project should be ready for working with it.
 
 
-Also, you can run add_module.py and add_native_module.py in order for creating
-modules in your application, again, without needing using Android Studio.
+Also, you can run add_module.py and add_native_module.py in order to create
+modules in your application, again without needing using Android Studio.
 
-Just not that both scripts needs TWO arguments instead one:
+Just note that both scripts require TWO arguments instead one:
 module name and package.
 
 So, instead doing:
